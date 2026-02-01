@@ -165,7 +165,11 @@ Separate demo videos have been recorded for each task:
 
 Task 1: AI-based Customer Interaction Solution
 
+https://github.com/user-attachments/assets/27c0a18b-3375-453b-bb22-4e62092f82c2
+
 Task 2: Internal Lead Management System
+
+https://github.com/user-attachments/assets/06789c8e-3ef1-4a64-bcf1-795f75d8133c
 
 Each demo video demonstrates:
 
@@ -176,8 +180,6 @@ The solution workflow
 Business relevance
 
 Practical use of AI and automation
-
-(Video links are shared through the submission form.)
 
 ✅ Conclusion
 
