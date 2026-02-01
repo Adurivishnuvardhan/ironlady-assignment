@@ -1,0 +1,19 @@
+# Node
+node_modules/
+build/
+
+# Java
+target/
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+
+# ENV
+.env
+application.properties
